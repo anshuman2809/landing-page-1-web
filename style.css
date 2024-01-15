@@ -9,7 +9,6 @@ body {
 
 .landing-page {
   display: flex;
-  max-height: 100vh;
 }
 
 .hero {
